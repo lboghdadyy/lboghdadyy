@@ -1,6 +1,7 @@
-<div style="justify-self:center">
+<div>
   <center>
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/sbaghdad" alt="sbaghdad's 42 stats" /></a>
+    <a style="align = 'center'" href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/binary/sbaghdad" alt="sbaghdad's 42 stats" /></a>
   </center>
 </div>
 
